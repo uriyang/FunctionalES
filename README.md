@@ -1,4 +1,6 @@
 # FunctionalES
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Furiyang%2FFunctionalES.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Furiyang%2FFunctionalES?ref=badge_shield)
+
 
 ## ES6+, 함수형 프로그래밍, 비동기, 동시성 프로그래밍
 
@@ -94,3 +96,7 @@
 
 - [API](https://github.com/Functional-JavaScript/FunctionalES/blob/master/articles/ES6%2C%20%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%2C%20%EB%B9%84%EB%8F%99%EA%B8%B0%2C%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/API.md)
     - 진행 중
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Furiyang%2FFunctionalES.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Furiyang%2FFunctionalES?ref=badge_large)
